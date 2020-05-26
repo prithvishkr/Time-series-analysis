@@ -32,7 +32,3 @@ The Volume column tells us the total volume of stocks traded on a particular day
 
 The volume weighted average price (VWAP) is a trading benchmark used by traders that gives the average price a security has traded at throughout the day, based on both volume and price. It is important because it provides traders with insight into both the trend and value of a security.
 
-### *Insight*
-
-The year between 2004 and 2008 is best for tata steel the values are highest at that point
-
